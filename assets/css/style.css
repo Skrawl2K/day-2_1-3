@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+
+body header nav ul {
+    background-color: grey;
+}
+
+section :nth-last-of-type(1) span {
+    color: red;
+}
